@@ -1,0 +1,7 @@
+.eunit
+deps
+erl_crash.dump
+ebin/hello_erlang_app.beam ebin/hello_erlang_sup.beam ebin/hello_handler.beam
+ebin
+_rel
+.erlang.mk
